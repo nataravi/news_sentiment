@@ -1,0 +1,4 @@
+StockName
+Bank of America
+Wells Fargo
+Citibank
