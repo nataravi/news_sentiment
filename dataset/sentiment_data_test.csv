@@ -1,0 +1,2 @@
+id,candidate,candidate_confidence,relevant_yn,relevant_yn_confidence,sentiment,sentiment_confidence,subject_matter,subject_matter_confidence,candidate_gold,name,relevant_yn_gold,retweet_count,sentiment_gold,subject_matter_gold,text,tweet_coord,tweet_created,tweet_id,tweet_location,user_timezone
+1,No candidate mentioned,1.0,yes,1.0,Neutral,0.6578,None of the above,1.0,,I_Am_Kenzi,,5,,,RT @NancyLeeGrahn: How did everyone feel about the Climate Change question last night? Exactly. #GOPDebate,,2015-08-07 09:54:46 -0700,629697200650592256,,Quito
